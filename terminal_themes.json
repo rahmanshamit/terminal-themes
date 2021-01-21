@@ -1,0 +1,46 @@
+{
+"schemes": [
+    {
+        "name": "ENCOM",
+        "foreground": "#aa7a56",
+        "background": "#111111",
+        "black": "#3B4252",
+        "red": "#BF616A",
+        "green": "#2a385c",
+        "yellow": "#EBCB8B",
+        "blue": "#464646",
+        "purple": "#B48EAD",
+        "cyan": "#99a9ad",
+        "white": "#ccd0d8",
+        "brightBlack": "#4C566A",
+        "brightRed": "#BF616A",
+        "brightGreen": "#b6dcf5",
+        "brightYellow": "#EBCB8B",
+        "brightBlue": "#96a3b1",
+        "brightPurple": "#d68888",
+        "brightCyan": "#98d3e4",
+        "brightWhite": "#caced6"
+      },
+      {
+        "name": "Dark",
+        "foreground": "#D8DEE9",
+        "background": "#131416",
+        "black": "#3B4252",
+        "red": "#BF616A",
+        "green": "#18263b",
+        "yellow": "#EBCB8B",
+        "blue": "#81A1C1",
+        "purple": "#B48EAD",
+        "cyan": "#88C0D0",
+        "white": "#E5E9F0",
+        "brightBlack": "#4C566A",
+        "brightRed": "#BF616A",
+        "brightGreen": "#f3a459",
+        "brightYellow": "#EBCB8B",
+        "brightBlue": "#91a3b4",
+        "brightPurple": "#B48EAD",
+        "brightCyan": "#95d0e0",
+        "brightWhite": "#E5E9F0"
+    }
+]
+}
